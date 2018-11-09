@@ -4,7 +4,7 @@
 (排名按我自己的偏好分先后)
 ## 面试资料
 - 剑西: 我的Android面试故事(2017下半年)  
-<http://blog.csdn.net/mabeijianxi/article/details/78452325>
+<https://www.sohu.com/a/203235362_611601>
 
 - [hamber(即刻 Android Leader)](https://juejin.im/user/57b82535d342d3005ac24f59):
 我是怎么看简历的  
